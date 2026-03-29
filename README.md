@@ -17,7 +17,6 @@ Advanced Power BI & DAX
 Data storytelling & visualization
 Real-time project building
 💭 My Mindset
-
 “Consistency beats perfection. Small progress every day leads to big results.”
 
 🤝 Let’s Connect
