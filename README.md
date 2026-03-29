@@ -4,7 +4,7 @@ I’m on a mission to grow in the world of data and analytics—building skills,
 
 🚀 What I Do
 
-📊 Create interactive dashboards in Power BI,Excel,Tableau
+📊 Create interactive dashboards in Power BI,Advanced Excel,Tableau
 🧠 Work with data using SQL & analytics techniques with python
 📈 Turn raw data into meaningful insights
 💡 Continuously learning and improving every day
