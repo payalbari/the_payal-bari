@@ -3,6 +3,7 @@
 I’m on a mission to grow in the world of data and analytics—building skills, solving real problems, and sharing everything I learn along the way.
 
 🚀 What I Do
+
 📊 Create interactive dashboards in Power BI,Excel,Tableau
 🧠 Work with data using SQL & analytics techniques with python
 📈 Turn raw data into meaningful insights
@@ -16,7 +17,9 @@ I’m on a mission to grow in the world of data and analytics—building skills,
 Advanced Power BI & DAX
 Data storytelling & visualization
 Real-time project building
+
 💭 My Mindset
+
 “Consistency beats perfection. Small progress every day leads to big results.”
 
 🤝 Let’s Connect
