@@ -30,7 +30,7 @@ Let’s grow together, share knowledge, and make tech less overwhelming 💙
 
 ⭐ You bring the curiosity, I’ll bring the data magic 📊✨
 
-📊 Skills
+## 📊 Skills
 Data Analysis
 
 Data Visualization
