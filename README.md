@@ -16,7 +16,7 @@ I’m on a mission to grow in the world of data and analytics—building skills,
 🌱 Currently Growing In
 Advanced Power BI & DAX
 Data storytelling & visualization
-Real-time project building
+Real-time project building.
 
 💭 My Mindset
 
