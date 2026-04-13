@@ -19,7 +19,7 @@ I’m on a mission to grow in the world of data and analytics—building skills,
 
 ### 🌱 Currently Growing In
 
-Advanced Power BI, DAX , Python
+Advanced Power BI,DAX,Python,
 Data storytelling & visualization
 Real-time project building.
 
