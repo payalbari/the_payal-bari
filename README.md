@@ -9,13 +9,17 @@ I’m on a mission to grow in the world of data and analytics—building skills,
 🧠 Work with data using SQL & analytics techniques with python
 📈 Turn raw data into meaningful insights
 💡 Continuously learning and improving every day
-🛠️ What You’ll Find Here
+
+### 🛠️ What You’ll Find Here
+
 🔹 Real-world data projects & dashboards
 🔹 Practical learnings (not just theory!)
 🔹 Problem-solving approaches from my journey
 🔹 Notes, tips & tricks that actually help in work life
-🌱 Currently Growing In
-Advanced Power BI & DAX
+
+### 🌱 Currently Growing In
+
+Advanced Power BI, DAX , Python
 Data storytelling & visualization
 Real-time project building.
 
