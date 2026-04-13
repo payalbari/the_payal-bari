@@ -1,8 +1,9 @@
-🌸 Welcome to my GitHub space!
+
+## 🌸 Welcome to my GitHub space!
 
 I’m on a mission to grow in the world of data and analytics—building skills, solving real problems, and sharing everything I learn along the way.
 
-🚀 What I Do
+### 🚀 What I Do
 
 📊 Create interactive dashboards in Power BI,Advanced Excel,Tableau
 🧠 Work with data using SQL & analytics techniques with python
@@ -19,11 +20,11 @@ Data storytelling & visualization
 Real-time project building.
 
 
-💭 My Mindset
+### 💭 My Mindset
 
 “Consistency beats perfection. Small progress every day leads to big results.”
 
-🤝 Let’s Connect
+### 🤝 Let’s Connect
 
 If you're also learning, building, or just figuring things out—you're not alone.
 Let’s grow together, share knowledge, and make tech less overwhelming 💙
