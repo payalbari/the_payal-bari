@@ -1,5 +1,5 @@
 
-## 🌸 Welcome to my GitHub space! I’m so glad you’re here!
+## 🌸 Welcome to my GitHub space! I’m so glad you’re here 🌸
 
 I’m on a mission to grow in the world of data and analytics—building skills, solving real problems, and sharing everything I learn along the way.
 
