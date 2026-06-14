@@ -1,7 +1,7 @@
 
 ## 🌸 Welcome to my GitHub space! I’m so glad you’re here 🌸
 
-I’m on a mission to grow in the world of data and analytics—building skills, solving real problems, and sharing everything I learn along the way.
+I’m on a mission to grow in the world of data and Business analytics—building skills, solving real problems, and sharing everything I learn along the way.
 
 ### 🚀 What I Do
 
